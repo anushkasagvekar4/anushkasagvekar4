@@ -2,8 +2,9 @@
 <h3 align="center">💻 Passionate Full Stack Web Developer | MERN Stack Enthusiast 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C2&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning+%E2%9C%A8+and+building+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning+and+building+cool+projects!" alt="Typing SVG" />
 </p>
+
 
 ---
 
