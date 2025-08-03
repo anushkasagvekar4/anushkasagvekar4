@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **MERN Stack** and building exciting projects.
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**.
 - 📫 Reach me at: [anushkasagvekar4@gmail.com](mailto:anushkasagvekar4@gmail.com)
-- 🎨 Fun fact:  I'm deeply passionate about art — from painting and drawing to exploring Indian traditional styles, doodling, and abstract forms. Each stroke on canvas is a form of self-expression.I also love reading books that expand my thinking and help me grow into a better human being. And when it comes to animation movies — they aren't just entertainment to me, they often carry life lessons that stay with me forever. ✨📚🎬
+- 🎨 Fun fact: I don’t just paint — I translate thoughts into colors. From traditional Indian art to messy doodles and abstract swirls, I find meaning in every stroke. Books shape my mind, and animated films color my heart with timeless lessons.
 
 ---
 
