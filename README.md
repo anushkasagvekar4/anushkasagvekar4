@@ -69,3 +69,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anushkasagvekar4&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
+
+---
+
+### 🧠 Words That Inspire Me
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=What%20is%20programming%3F%20Some%20call%20it%20a%20science%2C%20some%20an%20art%2C%20some%20a%20skill.%20I%20think%20it%E2%80%99s%20all%20three.&theme=radical" />
+</p>
+
