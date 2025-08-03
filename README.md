@@ -74,9 +74,5 @@
 
 ### 🧠 Words That Inspire Me
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Every%20error%20is%20just%20your%20code%20trying%20to%20teach%20you%20something.&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=What%20is%20programming%3F%20Some%20call%20it%20a%20science%2C%20some%20an%20art%2C%20some%20a%20skill.%20I%20think%20it%E2%80%99s%20all%20three.&center=true&width=800&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Every%20error%20is%20just%20your%20code%20trying%20to%20teach%20you%20something.&center=true&width=800&theme=radical" />
 </p>
