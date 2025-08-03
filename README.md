@@ -69,10 +69,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anushkasagvekar4&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
-
----
-
-### ✨ Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
